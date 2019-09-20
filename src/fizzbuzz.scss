@@ -1,0 +1,19 @@
+$fizz: blue;
+$buzz: red;
+$fizzBuzz: purple;
+$fizzBuzzFontSize: 24px;
+
+.fizz_buzz {
+  color: $fizzBuzz;
+  font-size: $fizzBuzzFontSize;
+}
+
+.fizz {
+  color: $fizz;
+  font-size: $fizzBuzzFontSize;
+}
+
+.buzz {
+  color: $buzz;
+  font-size: $fizzBuzzFontSize;
+}
